@@ -1,0 +1,34 @@
+// Screen size
+$screen-sm: 375px;
+$screen-lg: 1024px;
+
+@mixin sm {
+  @media (min-width: #{$screen-sm}) {
+    @content;
+  }
+}
+
+@mixin lg {
+  @media (min-width: #{$screen-lg}) {
+    @content
+  }
+}
+
+// color
+
+$primary: hsl(180, 29%, 50%);
+$background: hsl(180, 52%, 96%);
+$flight: hsl(180, 31%, 95%);
+$dark: hsl(180, 8%, 52%);
+$veryDark: hsl(180, 14%, 20%);
+
+// font-
+
+$normal: 15px;
+$classic: 500;
+$bold: 700;
+
+@font-face {
+  font-family: Spartan;
+  src: url('https://fonts.googleapis.com/css2?family=Spartan:wght@500;700&display=swap');
+}

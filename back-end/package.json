@@ -1,13 +1,13 @@
 {
   "name": "bookmark",
   "version": "1.0.0",
-  "description": "test technique : bookmark",
+  "description": "Bookmark - laboratoire",
   "main": "app.js",
   "author": "Mendes Kevin",
   "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "../node_modules/.bin/nodemon app.js"
+    "start": "./node_modules/.bin/nodemon app.js"
   },
   "dependencies": {
     "bcrypt": "^4.0.1",

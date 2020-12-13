@@ -7,15 +7,20 @@ import {
 
 import {Home} from "./pages/home/Home";
 
-import './App.css';
+import './reset.scss'
+
+import {Header} from "./app/Header";
+import {Footer} from "./app/Footer";
 
 
 function App() {
   return (
     <Router>
+      <Header/>
       <Switch>
-      <Route path={"/"} component={Home}/>
+        <Route path={"/"} component={Home}/>
       </Switch>
+      <Footer/>
     </Router>
   );
 }
