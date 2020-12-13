@@ -20,20 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2edaaf84-02d4-4299-943b-01d9ec33d8ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/front-end/style-guide.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/vstable/src/_common.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/vstable/src/reset.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/vstable/src/utils/img/bg-header-desktop.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/vstable/src/utils/img/bg-header-mobile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/vstable/src/components/Button/Button.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/vstable/src/components/Button/Button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/vstable/src/components/Input/Input.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/vstable/src/components/Input/Input.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/back-end/utils/database.js" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/utils/database.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front-end/vstable/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/vstable/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/vstable/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/front-end/vstable/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/vstable/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/vstable/src/app/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/vstable/src/app/Footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/vstable/src/_common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/vstable/src/_common.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front-end/vstable/src/app/Header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/vstable/src/app/Header.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/front-end/vstable/src/app/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/vstable/src/app/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/vstable/src/components/Login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/vstable/src/components/Login.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/vstable/src/pages/home/Home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/vstable/src/pages/home/Home.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +90,7 @@
       <workItem from="1607705429955" duration="19000" />
       <workItem from="1607764769476" duration="7703000" />
       <workItem from="1607853432829" duration="1114000" />
-      <workItem from="1607859133003" duration="3090000" />
+      <workItem from="1607859133003" duration="5197000" />
     </task>
     <servers />
   </component>

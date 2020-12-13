@@ -6,12 +6,10 @@ import {
 } from "react-router-dom";
 
 import {Home} from "./pages/home/Home";
-
-import './reset.scss'
-
 import {Header} from "./app/Header";
 import {Footer} from "./app/Footer";
 
+import './reset.scss'
 
 function App() {
   return (
